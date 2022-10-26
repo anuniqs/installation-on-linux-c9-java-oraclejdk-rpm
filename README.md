@@ -3,6 +3,10 @@
 
 **Site address :** [Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/ "https://www.oracle.com/java/technologies/downloads/")
 
+`[anup@c9-250-server ~]$ sudo dnf update`
+
+`[anup@c9-250-server ~]$ sudo dnf install epel-release epel-next-release`
+
 **Download the required file,** 
 
 `[anup@c9-250-server ~]$ wget https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.rpm`
